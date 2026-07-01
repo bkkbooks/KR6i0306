@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0306/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經文句
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1785.xml
+    old_id: T39n1785
+hash: sha256:54a645842d6978eb898108536cd646c54c132aff44a109a90766bffe3f8458e8

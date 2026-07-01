@@ -1,0 +1,278 @@
+canonical_identifier: bkk:krp/KR6i0306/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0306/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經文句
+  identifiers:
+    krp: KR6i0306
+    cbeta: T39n1785
+    cbeta_old_id: T39n1785
+    authorityid: CA0001783
+    json_key: T1785
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1785.xml
+    old_id: T39n1785
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0306_000-T.yaml, hash: 'sha256:54a645842d6978eb898108536cd646c54c132aff44a109a90766bffe3f8458e8'}
+  - {seq: 1, filename: KR6i0306_001-T.yaml, hash: 'sha256:8bf0d3576cee6a8a21479af03152f5aa42f955cd1709c852e22951d80b816621'}
+  - {seq: 2, filename: KR6i0306_002-T.yaml, hash: 'sha256:cac4934f2ae530451ba962d9b65ec9e1545362ad9eae44c64490e4fbe7d2483f'}
+  - {seq: 3, filename: KR6i0306_003-T.yaml, hash: 'sha256:5b02efcdeff5466a8f5d48b92d5da8668460fcfe72b8d7a12486beb26cb8b69b'}
+  - {seq: 4, filename: KR6i0306_004-T.yaml, hash: 'sha256:cbe148714105539a9e8c100166643c3519cb76628fd00127dea7095c2603b668'}
+  - {seq: 5, filename: KR6i0306_005-T.yaml, hash: 'sha256:71ce92a7360d14043d2ffbdb44a1605c94491ccbdb9d8bea7ed52156b911b6ae'}
+  - {seq: 6, filename: KR6i0306_006-T.yaml, hash: 'sha256:2cb211d86f77cd5b1d96cb7d7693143f790a739a4f3f1edb4d6583d4a6500039'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0306_000-T.markers.yaml, hash: 'sha256:bbe3bacf749d8ce99a29726de3dd8202d5cfef3be8f1dce5c15dfb73dda49a7d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0306_001-T.markers.yaml, hash: 'sha256:8ba15ea4aafc0ae37a3684b6197ead6c5282e97a3c814f32151cc10a068bc4fe'}
+  - {seq: 2, role: markers, filename: assets/KR6i0306_002-T.markers.yaml, hash: 'sha256:81bc9eaf1d03df337f48b78963a6f3a150f8958ee741c3f7095252c2d53190ba'}
+  - {seq: 3, role: markers, filename: assets/KR6i0306_003-T.markers.yaml, hash: 'sha256:335b5aaf0badfe75e1f596f89751205dd5d4c8094f050b69a7b39f43d41b7186'}
+  - {seq: 4, role: markers, filename: assets/KR6i0306_004-T.markers.yaml, hash: 'sha256:b7d4f5de8214f9e9e7bc5a5054cf0e3ec7f2647559dc791d765b9f2a5042456e'}
+  - {seq: 5, role: markers, filename: assets/KR6i0306_005-T.markers.yaml, hash: 'sha256:cff973de0c87d7bcbff047e70ff6a3a7537a9457870ccea7a519406383eb36a7'}
+  - {seq: 6, role: markers, filename: assets/KR6i0306_006-T.markers.yaml, hash: 'sha256:fae84e5f4efa499f4df7bdb08f6fe3d0774b0bff71e354345a0c0611bb1d389c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0306_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9338
+  label: 金光明經文句卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0306_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0306_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8634
+  label: 金光明經文句卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0306_T_002-mulu-1
+    span:
+    - body
+    - 736
+    - 736
+  label: 釋壽量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0306_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9640
+  label: 金光明經文句卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0306_T_003-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋懺悔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0306_T_003-mulu-2
+    span:
+    - body
+    - 7978
+    - 7978
+  label: 釋讚歎品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0306_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10137
+  label: 金光明經文句卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0306_T_004-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7022
+  label: 金光明經文句卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋四天王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-mulu-2
+    span:
+    - body
+    - 4181
+    - 4181
+  label: 釋大辯品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-mulu-3
+    span:
+    - body
+    - 4504
+    - 4504
+  label: 釋功德天品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-mulu-4
+    span:
+    - body
+    - 4695
+    - 4695
+  label: 釋堅牢地神品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0306_T_005-mulu-5
+    span:
+    - body
+    - 5279
+    - 5279
+  label: 釋散脂鬼神品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6894
+  label: 金光明經文句卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋正論品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-2
+    span:
+    - body
+    - 1259
+    - 1259
+  label: 釋善集品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-3
+    span:
+    - body
+    - 1624
+    - 1624
+  label: 釋鬼神品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-4
+    span:
+    - body
+    - 2396
+    - 2396
+  label: 釋授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-5
+    span:
+    - body
+    - 2992
+    - 2992
+  label: 釋除病品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-6
+    span:
+    - body
+    - 5085
+    - 5085
+  label: 釋流水品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-7
+    span:
+    - body
+    - 5558
+    - 5558
+  label: 釋捨身品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0306_T_006-mulu-8
+    span:
+    - body
+    - 6140
+    - 6140
+  label: 釋讚佛品
+  type: mulu
+  level: 1
+hash: sha256:de3a5ae73a32d7580ad7cbac9fa12a0b58832e3221f207812e7e874c051ccac0
