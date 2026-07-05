@@ -37,19 +37,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0306_000.yaml, hash: 'sha256:54a645842d6978eb898108536cd646c54c132aff44a109a90766bffe3f8458e8'}
-  - {seq: 1, filename: KR6i0306_001.yaml, hash: 'sha256:e4e709c63cf9dab5bd77d0ea63b6f4b5c75311956130c46a2cd21a2d2c972dad'}
-  - {seq: 2, filename: KR6i0306_002.yaml, hash: 'sha256:a0d644539f3bc6da3dd922796899a1fe3f39ac83677f6a3e3d113e0f6dd75763'}
-  - {seq: 3, filename: KR6i0306_003.yaml, hash: 'sha256:68f1f4ece9781035efaa785b9161d181b6cf9ddd70beff1900f525eafaec71b2'}
-  - {seq: 4, filename: KR6i0306_004.yaml, hash: 'sha256:46566d788611340d1917f4c4b5061bdf8b9ed9f29f8ffdab5b3b585f93068568'}
-  - {seq: 5, filename: KR6i0306_005.yaml, hash: 'sha256:3d7d8b52eced4be1101865c7c3035516e540348bfcb998daaf542a89e70956c5'}
-  - {seq: 6, filename: KR6i0306_006.yaml, hash: 'sha256:18d0b9bb609e990b8b823b88cd2c53c1817b90fd023384c9cbf22ef800cc5380'}
+  - {seq: 1, filename: KR6i0306_001.yaml, hash: 'sha256:8bf0d3576cee6a8a21479af03152f5aa42f955cd1709c852e22951d80b816621'}
+  - {seq: 2, filename: KR6i0306_002.yaml, hash: 'sha256:cac4934f2ae530451ba962d9b65ec9e1545362ad9eae44c64490e4fbe7d2483f'}
+  - {seq: 3, filename: KR6i0306_003.yaml, hash: 'sha256:5b02efcdeff5466a8f5d48b92d5da8668460fcfe72b8d7a12486beb26cb8b69b'}
+  - {seq: 4, filename: KR6i0306_004.yaml, hash: 'sha256:cbe148714105539a9e8c100166643c3519cb76628fd00127dea7095c2603b668'}
+  - {seq: 5, filename: KR6i0306_005.yaml, hash: 'sha256:71ce92a7360d14043d2ffbdb44a1605c94491ccbdb9d8bea7ed52156b911b6ae'}
+  - {seq: 6, filename: KR6i0306_006.yaml, hash: 'sha256:2cb211d86f77cd5b1d96cb7d7693143f790a739a4f3f1edb4d6583d4a6500039'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0306_001.markers.yaml, hash: 'sha256:461f63e4a9ff8e8a07fae8ba98f9a1f62ee3d6994151a7f18d30780e40075da0'}
-  - {seq: 2, role: markers, filename: assets/KR6i0306_002.markers.yaml, hash: 'sha256:081b8010d998da284a6090dcd3e0a3ef40b174a4cf1d022e23369262f90570e4'}
-  - {seq: 3, role: markers, filename: assets/KR6i0306_003.markers.yaml, hash: 'sha256:a54faec751b4bd2e0125d5b7f513c6877c66fb285ffdecf3c6d83fa86e0570db'}
-  - {seq: 4, role: markers, filename: assets/KR6i0306_004.markers.yaml, hash: 'sha256:02871e4f2abe2d2e5095a17941414f52f6cfbd78b85b1912ad99f2f7968d5c0f'}
-  - {seq: 5, role: markers, filename: assets/KR6i0306_005.markers.yaml, hash: 'sha256:1025b633e9590edea2bc98a7a5fa4b9ad3d26c8f9820a1a1d3d9ef7420aec1b1'}
-  - {seq: 6, role: markers, filename: assets/KR6i0306_006.markers.yaml, hash: 'sha256:b58e19f8bff2c52c665b5ae9f9c98a1255f62d535aff0190f03cb1dfd493b05c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0306_000.markers.yaml, hash: 'sha256:1fcac97c7876e2abdac5fadee5be213be8fa0fb2324e41bb17a546f5d4bd64ab'}
+  - {seq: 1, role: markers, filename: assets/KR6i0306_001.markers.yaml, hash: 'sha256:fb37cccaa41ae29903fa7590d2f395986fb9ef26cae4cd789ffee81ceb684af3'}
+  - {seq: 2, role: markers, filename: assets/KR6i0306_002.markers.yaml, hash: 'sha256:5e085bea9f8a968a1958b32b3adaaeaadcb4c35c1188a7598fff5cb413865f39'}
+  - {seq: 3, role: markers, filename: assets/KR6i0306_003.markers.yaml, hash: 'sha256:31fbb6477c8ef322026e9d5bd8b1d036cbf2c679fe9db4ec499c0ed9a4275336'}
+  - {seq: 4, role: markers, filename: assets/KR6i0306_004.markers.yaml, hash: 'sha256:543e50225a194f64d070e10b73a1306319b62f421997e9704a75b5f1421f00c2'}
+  - {seq: 5, role: markers, filename: assets/KR6i0306_005.markers.yaml, hash: 'sha256:333aa9cd0db473e870c0992d38fa984ff0fd93c8a22da0cb345829dab3932ba3'}
+  - {seq: 6, role: markers, filename: assets/KR6i0306_006.markers.yaml, hash: 'sha256:4b263a726a88c922ad88dcd387b517c3eed66bc56ad64dd593bfdc6e8526cdb6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -291,7 +292,4 @@ table_of_contents:
   label: 釋讚佛品
   type: mulu
   level: 1
-hash: sha256:0c7a8a0d071b191296938b83337cd983974ee92425693a72cf91f22ed1642763
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a8c333a7313fd894d829aa71ff1cf6254a1d4a25e49cdca47a3ca8bad9bb8242
